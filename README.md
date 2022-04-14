@@ -1,5 +1,3 @@
-# Game Janpu Ninja
-
 Credits:
 
 - Muhammad Prasetyo Nugroho
